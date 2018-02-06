@@ -43,3 +43,7 @@ Please ensure that your code is appropriately commented and meaningful class, va
 If you use any third party frameworks or additional images or other materials, ensure that these are copied into the project
 – not just referenced somewhere else in your filestore. The zipped folder that you submit should be sufficient to compile
 and run your App.
+
+ ## User guide ##
+![user guide-1](https://user-images.githubusercontent.com/26280459/35874406-5618c6a8-0b64-11e8-96e2-9ba488a48eea.jpg)
+![user guide-2](https://user-images.githubusercontent.com/26280459/35874407-563b1744-0b64-11e8-8613-33c11bc953cb.jpg)
